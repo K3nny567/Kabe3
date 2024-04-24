@@ -1,0 +1,33 @@
+# Ignore all files
+*.*
+
+# File Types
+!*.mps
+!*.dat
+!*.json
+!*.txt
+!*.project
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!*.yaml
+!*.rb
+
+# Other Needed Files
+!.gitignore
+!README.md
+!dazed/*
+!GameUpdate.lnk
+
+# Ignore
+previous_patch_sha.txt
+kabe3_save.dat
+kabe3_system.dat
+psbpack.dat
+
+# Images
